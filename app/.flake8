@@ -5,4 +5,4 @@ exclude =
     manage.py,
     settings.py,
     .dockerignore,
-    
+   
